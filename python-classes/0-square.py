@@ -2,6 +2,8 @@
 """
 Square module
 """
+
+
 class Square:
     """Represent a square with a private size attribute."""
     def __init__(self, size):
